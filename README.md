@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
 <h3 align="center">I am an IIT BHU graduate with a deep passion for technology and innovation. I enjoy exploring cutting-edge technologies and building solutions that make an impact. Welcome to my GitHub profile, where I share my projects, ideas, and contributions to the tech community. 🚀</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://ayush-portfolio-beta.vercel.app/</h3>
 <p align="left">
 </p>
 
