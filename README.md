@@ -48,6 +48,6 @@ Welcome to my GitHub profile — where I share my projects, experiments, and ide
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushtiwari&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtiwari&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushtiwari31&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtiwari31&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
